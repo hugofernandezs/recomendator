@@ -150,7 +150,7 @@ python main.py -f documento.txt
 
 Nos devolverá por pantalla toda la infromación útil.
 ```bash
-#################################    Content Based Recommendation - document.txt      ##################################
+#######################    Content Based Recommendation - document.txt      ########################
 
 -----------    Article 1    ------------
 
